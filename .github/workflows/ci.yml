@@ -14,4 +14,4 @@ jobs:
         run: |
           test -f index.html
           test -f README.md
-          echo 'Estructura del proyecto correcta'
+          echo "Estructura del proyecto correcta"
